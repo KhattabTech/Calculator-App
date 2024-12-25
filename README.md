@@ -26,9 +26,10 @@ A simple and interactive web-based calculator built with JavaScript, HTML, and C
 
 ### **Demo**  
 If you have a live demo (e.g., hosted on GitHub Pages), add a link here:  
-[Live Demo](https://your-username.github.io/calculator-app)  
+[Live Demo](https://khattabtech.github.io/Calculator-App/)  
 
 ### **Contributing**  
 Contributions are welcome! If you have suggestions or find any bugs, feel free to open an issue or submit a pull request.  
+![Calculator App](https://github.com/user-attachments/assets/2595a41d-d52f-4cac-82be-c796b3729a04)
 
 ---
